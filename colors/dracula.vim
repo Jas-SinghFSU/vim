@@ -318,7 +318,7 @@ if has('nvim')
     hi! link  @lsp.type.struct DraculaCyan
     hi! link  @lsp.type.type DraculaCyanItalic
     hi! link  @lsp.type.typeParameter DraculaPink
-    hi! link  @lsp.type.variable DraculaFg
+    hi! link  @lsp.type.variable DraculaPurple
   endif
 else
   hi! link SpecialKey DraculaPink
